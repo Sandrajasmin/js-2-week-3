@@ -1,0 +1,25 @@
+{
+  "name": "js-2-week-3",
+  "version": "1.0.0",
+  "description": "npm install -D tailwindcss postcss autoprefixer npx tailwindcss init TERMINAL",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandrajasmin/js-2-week-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandrajasmin/js-2-week-3/issues"
+  },
+  "homepage": "https://github.com/Sandrajasmin/js-2-week-3#readme",
+  "devDependencies": {
+    "vite": "^3.1.3"
+  }
+}
